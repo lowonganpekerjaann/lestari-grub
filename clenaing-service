@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lowongan LESTARI Grub</title>
+    <style>
+      body {
+        font-family: "Segoe UI", sans-serif;
+        background: #f9f9f9;
+        margin: 0;
+        padding: 20px;
+        color: #333;
+      }
+      .container {
+        max-width: 720px;
+        margin: auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #2c3e50;
+        margin-top: 0;
+      }
+      h2 {
+        color: #34495e;
+      }
+      ul {
+        padding-left: 20px;
+      }
+      .btn-wa {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 20px;
+        background-color: #25d366;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        border-radius: 6px;
+        transition: background-color 0.3s ease;
+      }
+      .btn-wa:hover {
+        background-color: #1da851;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>DIBUTUHKAN SEBANYAK - BANYAKNYA</h1>
+      <h1>Lowongan Kerja – LESTARI Grub</h1>
+      <h2>Posisi:</h2>
+      <ul>
+        <li>Cleaning Service</li>
+        <li>Staff Consultant</li>
+        <li>Business Development</li>
+      </ul>
+
+      <h2>Syarat:</h2>
+      <ul>
+        <li>Pria/Wanita, usia 18–40 tahun</li>
+        <li>Minimal lulusan SMA</li>
+        <li>Sehat jasmani & rohani</li>
+        <li>Disiplin, jujur, pekerja keras & kreatif</li>
+        <li>Pengalaman/non pengalaman</li>
+        <li>Pendaftaran gratis tanpa biaya administrasi</li>
+      </ul>
+
+      <h2>Fasilitas:</h2>
+      <ul>
+        <li>Gaji bulanan</li>
+        <li>Jenjang karir</li>
+        <li>THR</li>
+        <li>Training gratis</li>
+        <li>Libur Sabtu–Minggu</li>
+      </ul>
+
+      <h2>Penempatan:</h2>
+      <p>
+        Jl. Jenderal Sudirman No.86, Karet Tengsin, Tanah Abang, Jakarta Pusat,
+        DKI Jakarta 10220
+      </p>
+
+      <h2>Pendaftaran Ditutup:</h2>
+      <p>31 Desember 2025</p>
+
+      <a
+        class="btn-wa"
+        href="https://wa.me/6281330175253?text=Selamat%20pagi%2C%20saya%20ingin%20menanyakan%20mengenai%20lowongan%20kerja%20di%20LESTARI%20Grub%20untuk%20posisi%20Cleaning%20Service%2FStaff%20Consultant%2FBusiness%20Development.%20Berikut%20saya%20lampirkan%20CV%20dan%20data%20diri%20saya."
+        target="_blank"
+      >
+        Lamar via WhatsApp
+      </a>
+    </div>
+  </body>
+</html>
