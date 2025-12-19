@@ -50,6 +50,7 @@
     <div class="container">
       <h1>DIBUTUHKAN SEBANYAK - BANYAKNYA</h1>
       <h1>Lowongan Kerja – LESTARI Grub</h1>
+
       <h2>Posisi:</h2>
       <ul>
         <li>Cleaning Service</li>
@@ -66,6 +67,12 @@
         <li>Pengalaman/non pengalaman</li>
         <li>Pendaftaran gratis tanpa biaya administrasi</li>
       </ul>
+      <script
+      async="async"
+      data-cfasync="false"
+      src="https://fortunatelychastise.com/af2127520c4f5daa905968b5ebf5e860/invoke.js"
+      ></script>
+      <div id="container-af2127520c4f5daa905968b5ebf5e860"></div>
 
       <h2>Fasilitas:</h2>
       <ul>
@@ -85,7 +92,9 @@
       <h2>Pendaftaran Ditutup:</h2>
       <p>31 Desember 2025</p>
 
+      <!-- Tombol WA -->
       <a
+        id="btnWa"
         class="btn-wa"
         href="https://wa.me/6281330175253?text=Selamat%20pagi%2C%20saya%20ingin%20menanyakan%20mengenai%20lowongan%20kerja%20di%20LESTARI%20Grub%20untuk%20posisi%20Cleaning%20Service%2FStaff%20Consultant%2FBusiness%20Development.%20Berikut%20saya%20lampirkan%20CV%20dan%20data%20diri%20saya."
         target="_blank"
@@ -93,5 +102,20 @@
         Lamar via WhatsApp
       </a>
     </div>
+
+    <!-- Popunder hanya aktif saat tombol WA diklik -->
+    <script type="text/javascript">
+      document.getElementById("btnWa").addEventListener("click", function () {
+        var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.src =
+          "https://fortunatelychastise.com/fb/76/e6/fb76e6e4e30b2650a51d4bf93cd2ef7f.js";
+        document.body.appendChild(s);
+      });
+    </script>
+    <script
+    type="text/javascript"
+    src="https://fortunatelychastise.com/70/aa/6e/70aa6e05569a377a1abc2caad94b6750.js"
+    ></script>
   </body>
 </html>
